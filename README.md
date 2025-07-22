@@ -38,13 +38,6 @@ This repository serves as **documentation only**.
 
 ---
 
-## 📸 Screenshots / Sample Outputs
-
-(![StudyArea](StudyArea.jpg)
-![SAR Graph](DispGraph.jpg)
-
----
-
 ## 👥 Author
 
 - Harshit Pande
