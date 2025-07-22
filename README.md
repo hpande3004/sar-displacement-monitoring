@@ -48,7 +48,7 @@ This repository serves as **documentation only**.
 ## 👥 Author
 
 - Harshit Pande
-B.E. Final Year, International Institute of Information Technology (I2IT)
+-- B.E. Final Year, International Institute of Information Technology (I2IT)
 
 ---
 
